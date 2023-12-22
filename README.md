@@ -24,3 +24,5 @@
 =>function name and tag name and component name first letter is capital
 =>ek element return karte hai but in fragment(<></>)we can return many element.
 =>component file name is first letter is capital.
+=>variable ko inject in tag by using {}(variable treat hoga).evaluated expression means final outcome of js
+=>js kyu nhi likh sakte hai {} braces me.36:00-38:00
