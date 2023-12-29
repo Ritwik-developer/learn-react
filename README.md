@@ -26,3 +26,11 @@
 =>component file name is first letter is capital.
 =>variable ko inject in tag by using {}(variable treat hoga).evaluated expression means final outcome of js
 =>js kyu nhi likh sakte hai {} braces me.36:00-38:00
+#########why hooks?
+=>counter increases in console but not on ui .so there react plays importand role
+=>hooks are special method.
+=>ui updation ko react control kardat hai
+=>read about babel
+virtual Dom 6:46
+=>creactRoot method behind the scence dom like structure bnata hai.
+=>onclick me fn pass karna hai 
